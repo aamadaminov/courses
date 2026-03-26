@@ -2,13 +2,13 @@
 
 ## OTUS
 
-[Микросервисы на Go](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e)
+[Микросервисы на Go](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e/)
 
-[C++](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510)
+[C++](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/)
 
-[PHP](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1)
+[PHP](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/)
 
-[JS](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70)
+[JS](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/)
 
 
 ## Yandex Cloud
