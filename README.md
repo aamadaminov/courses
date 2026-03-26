@@ -18,7 +18,7 @@
 
 ## Yandex Cloud
 
-[Инженер облачных сервисов](https://disk.yandex.ru/i/nPDpJT6VgvzkCg)
+Инженер облачных сервисов, 12.03.2026
 
 [Cloud Computing](https://storage.yandexcloud.net/yc-edu-self-courses-certs/certificates/498860998_yc-cross-cloud_%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B5%D0%B9_%D0%9C%D0%B0%D0%B4%D0%B0%D0%BC%D0%B8%D0%BD%D0%BE%D0%B2.pdf)
 
