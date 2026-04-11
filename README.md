@@ -23,7 +23,7 @@
 
 ## Stepik
 
-[Go, Ansible, Kubernetes, SQL](https://stepik.org/users/1048773990/profile)
+[Go | Ansible | Kubernetes | SQL](https://stepik.org/users/1048773990/profile)
 
 
 
