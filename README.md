@@ -5,7 +5,7 @@
 
 [Микросервисы на Go](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e/)
 
-[C++](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | [PHP](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/) | [JS](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | [SQL](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) [Git](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/) | [Linux](https://otus.ru/certificate/d0c08463258f42129bdd90b1a9cef3e4/)
+[C++](https://otus.ru/certificate/c7f2ce5adef14e528cbcb0ecc8e02510/) | [PHP](https://otus.ru/certificate/fb3a414ca6414940b0b3113213cafab1/) | [JS](https://otus.ru/certificate/6fff0c0e7d744ede9ed7c139bd842c70/) | [SQL](https://otus.ru/certificate/24cb7476f32b4a73b8ac312e6b0efce1/) | [Git](https://otus.ru/certificate/48cf3854fa5547d5a15cb7f5e9fdbb05/) | [Linux](https://otus.ru/certificate/d0c08463258f42129bdd90b1a9cef3e4/)
 
 ## Yandex Cloud
 
