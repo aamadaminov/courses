@@ -1,5 +1,3 @@
-# Удостоверения && сертификаты
-
 ## OTUS
 
 [Микросервисы на Go](https://disk.yandex.ru/i/2LNyfw1unIMU8Q) | [Верификация](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Сертификат](https://otus.ru/certificate/06d1ffd82da14dbb9fbb993cee84ae8e/)  
