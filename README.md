@@ -8,7 +8,7 @@
 
 ## Softline
 
-[Astra Linux](https://disk.yandex.ru/i/2GDm3MD5I3sKwg)
+[Astra Linux](https://disk.yandex.ru/i/2GDm3MD5I3sKwg) | [Верификация](astra.ru/training/authorized-training/#cert)
 
 ## Yandex Cloud
 
