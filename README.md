@@ -6,7 +6,7 @@
 
 ## Softline / Astra
 
-[Astra Linux](https://disk.yandex.ru/i/2GDm3MD5I3sKwg) | [Верификация](astra.ru/training/authorized-training/#cert)
+[Astra Linux](https://disk.yandex.ru/i/iBv1kUd1AnA66Q) | [Верификация](https://obrnadzor.gov.ru/gosudarstvennye-uslugi-i-funkczii/7701537808-gosfunction/formirovanie-i-vedenie-federalnogo-reestra-svedenij-o-dokumentah-ob-obrazovanii-i-ili-o-kvalifikaczii-dokumentah-ob-obuchenii/) | [Astra Linux](https://disk.yandex.ru/i/2GDm3MD5I3sKwg) | [Верификация](https://astra.ru/training/authorized-training/#cert)
 
 ## Yandex Cloud
 
